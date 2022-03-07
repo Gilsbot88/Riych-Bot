@@ -5,9 +5,9 @@ const chalk = require('chalk')
 global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
-global.ownername ="Riych-Uhuy"
-global.ownernumber = "6281575886399"
-global.botname = "Riychbot"
+global.ownername ="AraaChann"
+global.ownernumber = "6285759662798"
+global.botname = "α r α Ᏼo͢Ꭲ✿"
 global.thumbnail = fs.readFileSync("./settings/Riych.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.lolkey = 'RIFQIBOTZ' //apikey
